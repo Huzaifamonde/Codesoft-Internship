@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 20,
+    "editor.wordWrap": "on",
+    "editor.mouseWheelZoom": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorWidth": 0
+}
